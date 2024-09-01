@@ -1,6 +1,6 @@
 # Power-BI
 
-### $\square$ [Get Started](https://learn.microsoft.com/en-us/power-bi/fundamentals/) | [Documentation](https://learn.microsoft.com/en-us/power-bi/) | [Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction) 
+### $\square$ [Get Started](https://learn.microsoft.com/en-us/power-bi/fundamentals/) | [Documentation](https://learn.microsoft.com/en-us/power-bi/) | [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/)
 
 # Copilot for Power BI
 
