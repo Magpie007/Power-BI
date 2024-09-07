@@ -10,4 +10,7 @@
 
 ### $\square$ [PowerBI](https://powerbi.tips/) | [P3 Adaptive](https://p3adaptive.com/) | [sqlbi](https://www.sqlbi.com/) | [Kasper on BI](https://www.kasperonbi.com/) | [Excelerator BI](https://exceleratorbi.com.au/blog/) | [Curbal](https://curbal.com/blog)
 ### $\square$ [Dustin Ryan](https://sqldusty.com/) | [The BICCOUNTANT](https://www.thebiccountant.com) | [Insight Quest](https://insightsquest.com/) | [Fourmoo](https://www.fourmoo.com/blog)
-### $\square$ [GitHub1](https://github.com/liuliuball45/AwesomeResources/blob/master/PowerBI.md) | [Sunxinhua1](https://www.zhihu.com/column/c_1402719652045275137) | [Sunxinghua2](https://zhuanlan.zhihu.com/p/452203463) | [Zorro](https://www2.zhihu.com/question/366732559) | [Gaofei](https://zhuanlan.zhihu.com/PowerBI) | [Shane](https://www.youtube.com/playlist?list=PLCGGtLsUjhm2bonhBZuEhZU72QkFjOpc6) | [Reza](https://www.youtube.com/channel/UCvBYTqRx-n_8KzFO0MJlUVw) | [Library](https://www.excel120.com/#/library)
+
+# Power-BI Materials
+### $\square$ [GitHub1](https://github.com/liuliuball45/AwesomeResources/blob/master/PowerBI.md) | [GitHub2](https://github.com/PranamBhat/Power-BI-Materials) 
+### $\square$ [Sunxinhua1](https://www.zhihu.com/column/c_1402719652045275137) | [Sunxinghua2](https://zhuanlan.zhihu.com/p/452203463) | [Zorro](https://www2.zhihu.com/question/366732559) | [Gaofei](https://zhuanlan.zhihu.com/PowerBI) | [Shane](https://www.youtube.com/playlist?list=PLCGGtLsUjhm2bonhBZuEhZU72QkFjOpc6) | [Reza](https://www.youtube.com/channel/UCvBYTqRx-n_8KzFO0MJlUVw) | [Library](https://www.excel120.com/#/library)
