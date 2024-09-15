@@ -1,9 +1,9 @@
 # Power-BI
 
 ### $\square$ [Get Started](https://learn.microsoft.com/en-us/power-bi/fundamentals/) | [Documentation](https://learn.microsoft.com/en-us/power-bi/) | [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/)
-### $\square$ [Learning Path](https://learn.microsoft.com/en-us/training/browse/?products=power-bi&resource_type=learning%20path)
-# Copilot in Power-BI
+### $\square$ [Courses, Learning Paths, and Modules](https://learn.microsoft.com/en-us/training/browse/?products=power-bi) | [CN](https://learn.microsoft.com/zh-cn/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link)
 
+# Copilot in Power-BI
 ### $\square$ [Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction) | [Connect to Data](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-quickstart-connect-to-data) 
 
 # Communities
