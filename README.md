@@ -1,7 +1,9 @@
 # Power-BI
-
 ### $\square$ [Get Started](https://learn.microsoft.com/en-us/power-bi/fundamentals/) | [Documentation](https://learn.microsoft.com/en-us/power-bi/) | [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/)
 ### $\square$ [Courses, Learning Paths, and Modules](https://learn.microsoft.com/en-us/training/browse/?products=power-bi) | [Microsoft Power Platform](https://learn.microsoft.com/en-us/power-platform/) | [Microsoft Power-BI Training](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
+
+# DAX
+### $\square$ [Learn DAX Basics](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics)
 
 # Copilot in Power-BI
 ### $\square$ [Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction) | [Connect to Data](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-quickstart-connect-to-data) 
