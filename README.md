@@ -1,7 +1,7 @@
 # Power-BI
 
 ### $\square$ [Get Started](https://learn.microsoft.com/en-us/power-bi/fundamentals/) | [Documentation](https://learn.microsoft.com/en-us/power-bi/) | [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/)
-
+### $\square$ [Learning Path](https://learn.microsoft.com/en-us/training/browse/?products=power-bi&resource_type=learning%20path)
 # Copilot in Power-BI
 
 ### $\square$ [Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction) | [Connect to Data](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-quickstart-connect-to-data) 
