@@ -17,7 +17,7 @@
 ### $\square$ [GitHub1](https://github.com/liuliuball45/AwesomeResources/blob/master/PowerBI.md) , [2](https://github.com/PranamBhat/Power-BI-Materials) , [3](https://github.com/tomkarsten/awesome-power-bi) , [4](https://github.com/KienVu2368/Power-BI-Awesome) , [5](https://github.com/NajiElKotob) 
 ### $\square$ [Sunxinhua 1](https://www.zhihu.com/column/c_1402719652045275137) , [2](https://zhuanlan.zhihu.com/p/452203463) | [Zorro](https://www2.zhihu.com/question/366732559) | [Gaofei](https://zhuanlan.zhihu.com/PowerBI) | [Shane](https://www.youtube.com/playlist?list=PLCGGtLsUjhm2bonhBZuEhZU72QkFjOpc6) | [Reza](https://www.youtube.com/channel/UCvBYTqRx-n_8KzFO0MJlUVw) | [Library](https://www.excel120.com/#/library)
 ### $\square$ [Pro Power BI Architecture](https://github.com/Apress/pro-power-BI-architecture-2nd)
-
+### $\square$ [Extending Power BI with Python and R](https://github.com/PacktPublishing/Extending-Power-BI-with-Python-and-R-2nd-edition/tree/main)
 # Communities
 ### $\square$ [PowerBI](https://powerbi.tips/) | [P3 Adaptive](https://p3adaptive.com/) | [sqlbi](https://www.sqlbi.com/) | [Kasper on BI](https://www.kasperonbi.com/) | [Excelerator BI](https://exceleratorbi.com.au/blog/) | [Curbal](https://curbal.com/blog)
 ### $\square$ [Dustin Ryan](https://sqldusty.com/) | [The BICCOUNTANT](https://www.thebiccountant.com) | [Insight Quest](https://insightsquest.com/) | [Fourmoo](https://www.fourmoo.com/blog) | [PBI Guy](https://pbi-guy.com/start-with-power-bi/)
