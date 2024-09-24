@@ -13,7 +13,7 @@
 ### $\square$ [Learn DAX Basics](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics)
 
 # Books
-### $\square$ [Alberto Ferrari](https://www.sqlbi.com/author/alberto-ferrari/) 
+### $\square$ [Alberto Ferrari's Books](https://www.sqlbi.com/author/alberto-ferrari/) 
 ### $\square$ [Pro Power BI Architecture](https://github.com/Apress/pro-power-BI-architecture-2nd)
 ### $\square$ [Extending Power BI with Python and R](https://github.com/PacktPublishing/Extending-Power-BI-with-Python-and-R-2nd-edition/tree/main)
 
