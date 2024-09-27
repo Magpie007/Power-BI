@@ -2,6 +2,7 @@
 ### $\square$ [Get Started](https://learn.microsoft.com/en-us/power-bi/fundamentals/) | [Documentation](https://learn.microsoft.com/en-us/power-bi/) | [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/) | [Microsoft Power Platform](https://learn.microsoft.com/en-us/power-platform/) 
 ### $\square$ [Connect to Data](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-quickstart-connect-to-data) 
 ### $\square$ [Courses, Learning Paths, and Modules](https://learn.microsoft.com/en-us/training/browse/?products=power-bi) | [Microsoft Power-BI Training](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
+### $\square$ [Intel oneAPI MKL](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-download.html)
 
 # Copilot in Power-BI
 ### $\square$ [Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction) 
